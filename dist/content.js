@@ -1,0 +1,107 @@
+/* Generated from approved content. Edit content/site.json, then run scripts/prepare-content.py. */
+'use strict';
+window.GDT_CONTENT = {
+  "contact": {
+    "whatsapp": "",
+    "address": "",
+    "hours": "",
+    "mapsUrl": "",
+    "latitude": null,
+    "longitude": null
+  },
+  "projects": [
+    {
+      "id": "rakit",
+      "category": "rakit",
+      "image": "assets/hero.webp",
+      "concept": true,
+      "label": "Rakit kit",
+      "title": "A character takes shape.",
+      "subtitle": "Dari komponen menjadi sebuah karakter.",
+      "alt": "Visual konsep model mecha putih dan oranye, bukan hasil proyek pelanggan",
+      "status": "Konsep layanan",
+      "focus": "Perakitan sesuai jenis dan tingkat kesulitan kit.",
+      "description": "Setiap rakitan berawal dari memahami kit. Konsep ini menggambarkan arah layanan perakitan GDT WORKS: menyatukan komponen sesuai jenis kit dan kebutuhan pemiliknya.",
+      "result": "Belum ada hasil proyek nyata yang dipublikasikan untuk konsep ini."
+    },
+    {
+      "id": "detailing",
+      "category": "detailing",
+      "image": "assets/mecha.webp",
+      "concept": true,
+      "label": "Detailing",
+      "title": "Details make the difference.",
+      "subtitle": "Memberi ruang untuk detail berbicara.",
+      "alt": "Potongan dekat ilustrasi konsep untuk layanan detailing",
+      "status": "Konsep layanan",
+      "focus": "Detail tambahan dan karakter tampilan.",
+      "description": "Layanan detailing berfokus pada detail tambahan yang menguatkan tampilan dan karakter kit. Cakupan serta teknik pengerjaan dibicarakan bersama sebelum pesanan dimulai.",
+      "result": "Belum ada hasil proyek nyata yang dipublikasikan untuk konsep ini."
+    },
+    {
+      "id": "filet",
+      "category": "filet",
+      "image": "assets/hero.webp",
+      "concept": true,
+      "label": "Filet Gundam",
+      "title": "A clean beginning.",
+      "subtitle": "Persiapan yang rapi untuk rakitan berikutnya.",
+      "alt": "Ilustrasi konsep kit sebagai pengantar layanan filet, bukan foto proses filet",
+      "status": "Konsep layanan",
+      "focus": "Pemotongan part, pembersihan nubmark, dan pengelompokan komponen.",
+      "description": "Filet Gundam mencakup pemotongan setiap part dari runner, penghilangan nubmark atau sisa plastik, serta klasifikasi komponen menjadi kelompok tangan, kaki, badan, dan bagian lainnya.",
+      "result": "Belum ada hasil proyek nyata yang dipublikasikan untuk konsep ini."
+    },
+    {
+      "id": "repaint",
+      "category": "repaint",
+      "image": "assets/mecha.webp",
+      "concept": true,
+      "label": "Repaint",
+      "title": "A different kind of bold.",
+      "subtitle": "Warna baru. Karakter Anda.",
+      "alt": "Visual konsep mecha dengan aksen oranye untuk inspirasi repaint",
+      "status": "Konsep layanan",
+      "focus": "Pengecatan ulang dan perubahan warna kit.",
+      "description": "Repaint membuka kemungkinan untuk tampilan warna yang lebih personal. Konsep warna, bagian yang dicat, dan kondisi awal kit didiskusikan untuk menentukan cakupan pengerjaan.",
+      "result": "Belum ada hasil proyek nyata yang dipublikasikan untuk konsep ini."
+    },
+    {
+      "id": "repair",
+      "category": "repair",
+      "image": "assets/mecha.webp",
+      "concept": true,
+      "label": "Repair",
+      "title": "Ready for another chapter.",
+      "subtitle": "Kesempatan baru untuk kit kesayangan.",
+      "alt": "Ilustrasi konsep model mecha untuk layanan repair, bukan bukti sebelum dan sesudah",
+      "status": "Konsep layanan",
+      "focus": "Peninjauan bagian rusak, lepas, atau membutuhkan penyesuaian.",
+      "description": "Layanan repair ditujukan untuk komponen kit yang rusak, lepas, cacat, atau membutuhkan penyesuaian. Kondisi komponen diperiksa terlebih dahulu untuk menentukan kemungkinan perbaikan.",
+      "result": "Belum ada hasil proyek nyata yang dipublikasikan untuk konsep ini."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mulai dari percakapan.",
+      "description": "Ceritakan jenis kit, kondisinya, serta hasil yang Anda inginkan. Detail layanan, estimasi biaya, dan waktu pengerjaan didiskusikan sebelum pesanan disepakati."
+    },
+    {
+      "title": "Kenali setiap bagiannya.",
+      "description": "Setelah pesanan disepakati, kit diterima dan kondisi awalnya diperiksa. Kelengkapan serta kebutuhan pengerjaan dikonfirmasi bersama pelanggan."
+    },
+    {
+      "title": "Satu detail pada satu waktu.",
+      "description": "Kit dikerjakan sesuai layanan yang disepakati: rakit, detailing, filet, repaint, atau repair. Foto progres hanya dipublikasikan setelah mendapat persetujuan."
+    },
+    {
+      "title": "Periksa sebelum selesai.",
+      "description": "Hasil pengerjaan diperiksa kembali sebelum dinyatakan selesai. Tahap ini memastikan pekerjaan ditinjau sesuai cakupan pesanan yang telah disepakati."
+    },
+    {
+      "title": "Saatnya masuk koleksi.",
+      "description": "Setelah pengerjaan selesai dan pelunasan dilakukan, kit disiapkan untuk dikirim atau diserahkan sesuai kesepakatan dengan pelanggan."
+    }
+  ],
+  "progress": []
+};
